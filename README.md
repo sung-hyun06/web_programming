@@ -30,6 +30,10 @@ https://github.com/sung-hyun06/ex250310_first.wiki.git
 - 주로 많이 플레이 되는 게임 기록
 ***
 
+## 와이드 프레임
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8da882dd-defc-4f8a-a1c5-1c5cb7c1bcea" />
+***
+
 ## 사용되는 기술
 - 프론트앤드 : html, css, js 같은 웹 프레임워크 사용
 - 웹 링크 인식 : 각 아이콘을 선택하면 게임들이 나오게 인식
