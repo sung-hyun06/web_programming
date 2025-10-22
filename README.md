@@ -39,7 +39,8 @@ game_site/
 ***
 
 ## 와이드 프레임
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8da882dd-defc-4f8a-a1c5-1c5cb7c1bcea" />
+<img width="891" height="1260" alt="image" src="https://github.com/user-attachments/assets/1dc46954-6d07-40a1-9ddd-b4cc9a84ddd8" />
+
 ***
 
 ## 사용되는 기술
