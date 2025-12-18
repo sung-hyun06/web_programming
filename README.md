@@ -18,7 +18,7 @@ game_site/
 
 ## index.html(메인 페이지)
 ***
-```
+```html
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -65,7 +65,7 @@ game_site/
 
 ## style.css
 ***
-```
+```css
 body {
 font-family: Arial, sans-serif;
 background: #111;
@@ -105,7 +105,7 @@ cursor: not-allowed;
 
 ## main.js
 ***
-```
+```js
 let players = 0;
 
 
@@ -151,7 +151,7 @@ log.appendChild(li);
 
 ## games/slot.html
 ***
-```
+```html
 <!DOCTYPE html>
 <html lang="ko">
 <body>
@@ -169,7 +169,7 @@ setInterval(()=>document.getElementById('c').innerText=count,100);
 
 ## games/clocker.html
 ***
-```
+```html
 <!DOCTYPE html>
 <html lang="ko">
 <body>
@@ -187,7 +187,7 @@ setInterval(()=>document.getElementById('c').innerText=count,100);
 
 ## games/maze.html
 ***
-```
+```html
 <!DOCTYPE html>
 <html lang="ko">
 <body>
